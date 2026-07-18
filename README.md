@@ -10,6 +10,9 @@ There are two ways to go directly to a VS Code environment in your browser and s
 Preview the gif below to get a quick demo of github.dev in action.
 
 ![github dev](https://github.com/qapdex-maker/dev/blob/main/images/github..gif)
+
+---
+
 https://vscode.dev/github/qapdex-maker/dev/blob/main/images/github..gif?vscode-lang=de
 
 # Why?
