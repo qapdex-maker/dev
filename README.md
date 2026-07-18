@@ -10,6 +10,7 @@ There are two ways to go directly to a VS Code environment in your browser and s
 Preview the gif below to get a quick demo of github.dev in action.
 
 ![github dev](https://github.com/qapdex-maker/dev/blob/main/images/github..gif)
+https://vscode.dev/github/qapdex-maker/dev/blob/main/images/github..gif?vscode-lang=de
 
 # Why?
 It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help). 
